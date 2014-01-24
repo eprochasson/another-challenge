@@ -121,5 +121,13 @@
   }
   _.each(cases, check)
 
+
+    suite('Additional test for I like to suffer');
+    cases = {
+        'Mon-Thu & Sat: 09:30-22:30': 'S0-4:0930-2230;6:0930-2230'
+    };
+    _.each(cases, check)
+
+
 }());
 
