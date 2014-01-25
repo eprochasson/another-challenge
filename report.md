@@ -4,6 +4,8 @@ Completion time: around 11 hours.
 
 ## Tests
 
+Update, 1300: all test are clear.
+
 All test are clear except for two (actually the same one, in English and Chinese):
 `Mon.-Fri.: 12:00-14:30； 18:00-22:30
 Sat.-Sun.&Public Holidays: 11:30-15:00; 18:00-22:30:`
