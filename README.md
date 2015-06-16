@@ -1,3 +1,5 @@
+This repo is my response to the following technical challenge. See [the short report I produce to explain my choice](report.md).
+
 # Natural Language Hours Parsing
 
 The goal of this challenge is to create a parser that can read store opening hours written by a human and produce a machine-readable canonical (structured) representation.
