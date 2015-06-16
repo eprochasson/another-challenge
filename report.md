@@ -1,4 +1,4 @@
-# Report on the kite-challenge
+# Report on the challenge
 
 Completion time: around 11 hours.
 
